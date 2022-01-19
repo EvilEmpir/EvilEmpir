@@ -4,6 +4,9 @@
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@fazalurrahman2005)
   - :office: [LinkedIn](https://www.linkedin.com/in/fazalur-rahman-43637b1b3/)
+  - :see_no_evil: [Instagram](https://instagram.com/__fazalurrahman__)
+  - :iphone: [facebook](https://www.facebook.com/profile.php?id=100008897414161)
+
 <!---
 EvilEmpir/EvilEmpir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
